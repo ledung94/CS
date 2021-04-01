@@ -1,0 +1,19 @@
+﻿Date: 18 / 03
+
+
+1.Có thể kiểm tra 1 biến là thuộc kiểu dữ liệu nào hay không có thể dùng "variable is datatype"
+            string i = "1";
+if (i is int) Console.WriteLine($"{i} is integer");
+else Console.WriteLine($"{i} is not integer");
+
+2.Vi du thu vi
+float two = 0.2f;
+float one = 0.1f;
+float eight = 0.8f;
+float six = 0.6f;
+Console.WriteLine((eight - six == two) ? true : false);
+result: False.Vi 0.8f se co 8 chu so sau dau .
+
+3.
+            Console.WriteLine((Math.Pow(2, 53) +1 == Math.Pow(2, 53)));
+result: True

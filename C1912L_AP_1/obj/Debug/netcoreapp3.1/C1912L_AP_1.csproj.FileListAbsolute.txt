@@ -1,0 +1,12 @@
+/Users/ledung/Projects/C1912L_AP_1/C1912L_AP_1/obj/Debug/netcoreapp3.1/C1912L_AP_1.csprojAssemblyReference.cache
+/Users/ledung/Projects/C1912L_AP_1/C1912L_AP_1/obj/Debug/netcoreapp3.1/C1912L_AP_1.AssemblyInfoInputs.cache
+/Users/ledung/Projects/C1912L_AP_1/C1912L_AP_1/obj/Debug/netcoreapp3.1/C1912L_AP_1.AssemblyInfo.cs
+/Users/ledung/Projects/C1912L_AP_1/C1912L_AP_1/obj/Debug/netcoreapp3.1/C1912L_AP_1.csproj.CoreCompileInputs.cache
+/Users/ledung/Projects/C1912L_AP_1/C1912L_AP_1/bin/Debug/netcoreapp3.1/C1912L_AP_1.deps.json
+/Users/ledung/Projects/C1912L_AP_1/C1912L_AP_1/bin/Debug/netcoreapp3.1/C1912L_AP_1.runtimeconfig.json
+/Users/ledung/Projects/C1912L_AP_1/C1912L_AP_1/bin/Debug/netcoreapp3.1/C1912L_AP_1.runtimeconfig.dev.json
+/Users/ledung/Projects/C1912L_AP_1/C1912L_AP_1/bin/Debug/netcoreapp3.1/C1912L_AP_1.dll
+/Users/ledung/Projects/C1912L_AP_1/C1912L_AP_1/bin/Debug/netcoreapp3.1/C1912L_AP_1.pdb
+/Users/ledung/Projects/C1912L_AP_1/C1912L_AP_1/obj/Debug/netcoreapp3.1/C1912L_AP_1.dll
+/Users/ledung/Projects/C1912L_AP_1/C1912L_AP_1/obj/Debug/netcoreapp3.1/C1912L_AP_1.pdb
+/Users/ledung/Projects/C1912L_AP_1/C1912L_AP_1/obj/Debug/netcoreapp3.1/C1912L_AP_1.genruntimeconfig.cache
